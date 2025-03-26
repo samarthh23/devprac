@@ -1,1 +1,1 @@
-vvce
+Devops internals
